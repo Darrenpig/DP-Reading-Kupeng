@@ -1,4 +1,4 @@
-@[TOC](一分钟速通ACPI和鲲鹏软件移植)
+# 一分钟速通ACPI和鲲鹏软件移植
 # 操作系统内核
 ACPI<font face="黑体" color="#db5079">（Advanced Configuration and Power Interface）</font>
 是一种由英特尔、微软、惠普、索尼等公司共同开发的电源管理标准。它提供了一种通用的电源管理接口，用于管理计算机系统的电源状态、性能和配置等方面。
