@@ -1,4 +1,4 @@
-@[TOC](10min速通FSCK、原子操作与VFS)
+<10min速通FSCK、原子操作与VFS>
 在不少的情况下，由于计算机软硬件或人为原因断电、<font face="黑体" color="#4183c4">**崩溃（crash）**</font>，如果此时系统正在更新硬盘数据，则可能出现数据一致性问题——**崩溃一致性问题（crash-consistency problem）**
 
 > 图1 数据块 索引点 位图关系
